@@ -1,3 +1,3 @@
 # KingFisher
-Description - "Мій перший репозитоій"
+Description 
 Мій перший репозиторій
